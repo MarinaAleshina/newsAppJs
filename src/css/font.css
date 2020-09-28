@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Epilogue-VariableFont_wght";
+  src: url("../assets/fonts/Epilogue-VariableFont_wght.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Fondamento-Regular";
+  src: url("../assets/fonts/Fondamento-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
